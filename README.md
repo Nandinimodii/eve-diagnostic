@@ -261,5 +261,4 @@ src/
 seed/seed.js             inserts a couple of demo centres/tests
 tests/                   Jest + Supertest suite (auth, bookings, payment/webhook idempotency)
 ```
-#   e v e - d i a g n o s t i c  
- 
+#
