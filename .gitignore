@@ -1,7 +1,19 @@
-node_modules/
+
+# Environment variables
 .env
-npm-debug.log*
-*.sqlite
-*.sqlite3
-coverage/
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS
 .DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
